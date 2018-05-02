@@ -347,3 +347,7 @@ venv.bak/
 
 .idea
 bash.sh
+push.sh
+pull.sh
+conf.sh
+
